@@ -1,5 +1,4 @@
-a
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IxvIIxvI/TappingLegendsX/main/Part", true))()
 
 
 
